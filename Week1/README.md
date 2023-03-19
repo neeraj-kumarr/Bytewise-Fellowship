@@ -1,4 +1,4 @@
-In the first Week of ByteWise Fellowship, I learned about loops, array, conditions, lists and functions in #KOTLIN.
+In the first Week of ByteWise Fellowship, I learned about loops, array, conditions, lists and functions, and performed tasks to apply those learnings  in #KOTLIN.
 
 # Fibonacci
 ![image](https://user-images.githubusercontent.com/98312905/226180841-36514c8d-4155-4605-b0cd-38a94a5c270f.png)
