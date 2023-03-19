@@ -1,17 +1,19 @@
 fun main() {
 
-    val list = mutableListOf<Int>()
-    println("Enter a number greater than 1")
-    val x = readLine()?.toInt()
-    
-   for (i in 1..5){
-       val x = readLine()?.toInt()
-      	 if(x!=null){
-       		list.add(x)
-     	}
-   }
+    var list = mutableListOf<Int>()
+      	
+    println("Enter any five numbers ")
+        for (i in 1..5){
+            var x = readLine()?.toInt()
+             if(x!=null){
+            list.add(x)
+            }
+    }
 
-   val reversedList = list.reversed().toMutableList()
+    println("The reversed numbers are: ")
+   var reversedList = list.reversed().toMutableList()
    for (i in reversedList){
    println(i)}
+    
+
 }
