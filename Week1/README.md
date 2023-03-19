@@ -7,5 +7,7 @@ In the first Week of ByteWise Fellowship, I learned about loops, array, conditio
 ![image](https://user-images.githubusercontent.com/98312905/226179025-a8062cb7-b511-4c55-b715-299fc34b3068.png)
 
 # Reversed List
+![image](https://user-images.githubusercontent.com/98312905/226180740-0f7777d9-6fdf-438b-9d1d-4d25180d67bf.png)
+
 ![image](https://user-images.githubusercontent.com/98312905/226180254-49d36d4a-c728-41f5-a366-42d47cd795e6.png)
 
